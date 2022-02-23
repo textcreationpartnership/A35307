@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Cruel French lady, or, A True and perfect relation of the most execrable murthers committed by a French lady upon the persons of her own father, two brothers and sister, with a particular account how she contracted for 12,000 crowns with a French apothecary to extract poysons for her ... with the manner how they put them in use ... : together with an account how their devilish practice came to be discovered / faithfully rendred from a relation sent from Paris.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35307</idno>
+            <idno type="STC">Wing C7418</idno>
+            <idno type="STC">ESTC R39616</idno>
+            <idno type="EEBO-CITATION">18451923</idno>
+            <idno type="OCLC">ocm 18451923</idno>
+            <idno type="VID">107699</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35307)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107699)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1631:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Cruel French lady, or, A True and perfect relation of the most execrable murthers committed by a French lady upon the persons of her own father, two brothers and sister, with a particular account how she contracted for 12,000 crowns with a French apothecary to extract poysons for her ... with the manner how they put them in use ... : together with an account how their devilish practice came to be discovered / faithfully rendred from a relation sent from Paris.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Roger Vaughan ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in the Guildhall, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mass murder --  France.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107699:1"/>
+            <pb facs="tcp:107699:1" rendition="simple:additions"/>
+            <p>THE CRUEL French Lady: OR, A true and perfect Relation of the moſt execrable Murthers committed by a <hi>French Lady</hi> upon the per<g ref="char:EOLhyphen"/>ſons of her own Father, two Brothers and Siſter; with a particular account how ſhe contracted for 12000 Crowns with a <hi>French</hi> Apo<g ref="char:EOLhyphen"/>thecary to extract Poyſons for her; which he (taught by the Devil) had found out an Art to do beyond all humane Imagination, ſo that they would kill, either to a minute, an hour, a day, a week, a month, or a year.</p>
+            <p>WITH The manner how they put them in uſe, by writing of Letters, and otherwiſe; to the deſtruction of ſeveral of the ſaid Ladies principal Relations, and others, to the number of 50. and upwards, moſt Perſons of Quality.</p>
+            <p>TOGETHER With an Account how their Deviliſh Practice came to be diſcovered by the Apothecaries breaking one of his own Vials of Poyſon, which poyſoned him<g ref="char:EOLhyphen"/>ſelf; and how the Lacquay, who uſed to be the helliſh con<g ref="char:EOLhyphen"/>veyer of the ſaid Poyſons, was broke alive on the Wheel; but the Lady is yet eſcaped.</p>
+            <p>Faithfully rendred from a Relation ſent from <hi>Paris.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Rog<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>Vaughan</hi> living in <hi>Biſhops-Court</hi> in the <hi>Little-Old-Bayly.</hi> 1673.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:107699:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:107699:2"/>
+            <head>THE CRUEL French Lady, &amp;c.</head>
+            <p>NEver did any Age of Mankind produce ſuch horrid Vil<g ref="char:EOLhyphen"/>lanies and Impieties in all Kingdoms, nor ever was the Devil ſo buſie in laying his gins and ſnares, and in train<g ref="char:EOLhyphen"/>ing Man to lewdneſs as in this, wherein his power of ſe<g ref="char:EOLhyphen"/>ducing is grown ſtronger, and his wicked temptations more pre<g ref="char:EOLhyphen"/>valent than ever, as if his Chains were loos'ned, and he left at li<g ref="char:EOLhyphen"/>betty like a roaring Lyon to devour whom he pleaſed; which will beſt appear by the enſuing Relation, the Horrour of which no Time nor Hiſtory could ever Parallel.</p>
+            <p>In the famous City of <hi>Paris</hi> there was living very lately (and might ſtill have been living, had there not iſſued from his Loins a Monſter in Nature) a very Noble Gentleman, whoſe Name (becauſe it is not fit all ſhould be blaſted for the ſin of one) we will conceal under that of Monſieur <hi>du Puys,</hi> and ſo call him wherever we ſhall have occaſion to ſpeak of him in the enſuing Relation. This worthy Gentleman had for the whole courſe of his life preſerved a fair Fame and Reputation, ſutable to the Nobleneſs of his extract, and by a Lady no leſs virtuous than fair, had Iſſue left him two Sons and two Daughters; the El<g ref="char:EOLhyphen"/>deſt of all a Daughter, who by her Execreble Impiety has made her ſelf our preſent ſubject.</p>
+            <p>Yet this Lady, as ſhe was the firſt born, ſo ſhe was in her Youth the joy and delight of her Father, who ſeeing her grow up more and more as well in beauty as (in all outward appear<g ref="char:EOLhyphen"/>ance)
+<pb n="4" facs="tcp:107699:3"/>in virtuous inclinations redoubled his care over her, and aſſoon as ſhe came to years befitting a married Eſtate, matched her with a young and Noble Cavalier of a plentiful Eſtate, which was much augmented and ſtrengthned by the vaſt Portion which Monſr. <hi>du Puys,</hi> who well could ſpare it, beſtowed on his beloved Daughter, being no leſs than 300000 <hi>livres</hi> or 25000 l. ſterling.</p>
+            <p>This young Cavalier and his fair Lady lived for ſome years with all poſſible outward ſplendour, content and reputation, no perſons of Quality in the whole City of <hi>Paris</hi> having a more proper or better adjuſted Retinue than they, or kept a hand<g ref="char:EOLhyphen"/>ſomer Port both abroad or at home, no Liveries were nearer and ſcarce richer than theirs no Coaches more fitted to State with Horſes and all appurtenances ſutable, no Table better furniſhed nor with more variety, none of their Rank exceeded them in number of Gentile attendance, nor was there any thing wanting might compleat worldly Pride and Magnificence.</p>
+            <p>But whether by ſtraining thus to appear great and ſplendid in the world, they weakned their Eſtate as great as it was, or whether it proceeded from ſome ſecret judgment of God, or ra<g ref="char:EOLhyphen"/>ther from ſome cloſe and ſly debauchery in the young Cavalier, who is ſaid to be privately a great haunter of Ladies of plea<g ref="char:EOLhyphen"/>ſure, in which report likewiſe makes his Lady to cry quits with him, and that in ſo rank a manner, that (beſides others more coſtly) ſhe ſubmitted to ſuch an intimate familiarity with one of her Lacquey's, that his ſaucineſs and freedom with her was perceived by her Father Monſr. <hi>du Puys,</hi> who in juſt anger and diſdain cauſed the ſaid Lacquay to be impriſoned; but whether by the conſuming thus on both hands to ſatisfie their ſenſual ap<g ref="char:EOLhyphen"/>petites, or by what other means it came to paſs, ſo it was, that they had not been fourteen years married before their vaſt E<g ref="char:EOLhyphen"/>ſtate became ſo ſhattered and broken, that with all the ſhifts they could poſſibly make, it was impoſſible for them long to keep up and maintain that Port and ſtate which they had begun in the world.</p>
+            <pb n="5" facs="tcp:107699:3"/>
+            <p> Pride in the heart of a Woman is as fierce a paſſion as ambi<g ref="char:EOLhyphen"/>tion is in mans; they can with patience endure any thing rather than a ſuppreſſion of their vain-glory, and nothing ſooner hur<g ref="char:EOLhyphen"/>ries them into deſpair, than a fear to ſtoop lower than what they have been. This Lady now could not chooſe but viſibly per<g ref="char:EOLhyphen"/>ceive the decay of her glory, and how erelong ſhe muſt be for<g ref="char:EOLhyphen"/>ced to yield in bravery to Ladies ſhe had hitherto ſurpaſſed; this frets her inwardly, and ſhe rends and tears her Spirits to prevent it, and the Devil finding this hole in her Heart open, ſoon enters, and tells her, that her father had ſtill ſuch vaſt poſ<g ref="char:EOLhyphen"/>ſeſſions as would fully content her Ambition, but ſhe had alrea<g ref="char:EOLhyphen"/>dy her ſhare of his Eſtate, and could reaſonably expect no more, unleſs ſhe would attempt the means to arrive at it, which could be no otherwiſe compaſſed, but by taking out of the way thoſe that ſtood between her and her hopes, though they were her own Brothers and Siſters.</p>
+            <p>The Devil having thus baited his Hook with ſuch a Golden bait, ſhe eaſily ſnaps at, and caſting all fear of God behind her, and without having any conſideration of the hainouſneſs or un<g ref="char:EOLhyphen"/>naturalneſs of the Murthers ſhe was about to continue, being againſt her own Fleſh and Blood; ſhe reſolves no obſtacle ſhall ſtand between her and the enjoyment of ſo great an Eſtate to feed her Luſt and Pride, and the Enemy of Mankind who had put this into her heart, would not leave her without means to act it: She had long been acquainted with a certain Apothecaty, a cunning Villain and a notable Chymiſt; This Acquaintance ſhe now turns into a cloſer familiarity, and having at length made him ſhare in her cloſeſt favours, thought ſhe had now ſo tyed him to her, that ſhe might diſcloſe her whole mind to him, which in the midſt of Embraces ſhe does, and finds him as rea<g ref="char:EOLhyphen"/>dy to help forward her diveliſh deſigns, as ſhe was to deſire it; promiſing to furniſh her with ſuch Artificial and powerful Ex<g ref="char:EOLhyphen"/>tracts of Poyſon, as ſhould diſpatch at any limited time, either of a minute, hour, day, week, month year or more, and never leave any mark of ſuſpition on the Body.</p>
+            <pb n="6" facs="tcp:107699:4"/>
+            <p> With this ſweet promiſe ſhe is quite overjoyed, and alrea<g ref="char:EOLhyphen"/>dy in her hopes devours all her Fathers Eſtate, and more than that, flatters her ſelf with the being revenged on any perſon ſhould dare to enjure her. Well, the Devil and the Apothe<g ref="char:EOLhyphen"/>cary keep touch, and in leſs than a twelve-months time ſhe ſees her two Brothers and ſeveral others, whom her helliſh Malice had practiſed upon, linger away in a ſtrange but unſuſpected manner, her Lacquay being her Emiſſary to diſtribute about her Deaths, which ſhe ſent either in Letters or Gloves, or other Pre<g ref="char:EOLhyphen"/>ſents; the potion being wrought ſo ſtrong, that by the ſmelling it infected the whole Blood, and committed Murthers ſo ſuc<g ref="char:EOLhyphen"/>ceſsfully, that now greedy to have all in her hands, or inſtiga<g ref="char:EOLhyphen"/>ted by this Lacquay in revenge of his Impriſonment, ſhe ſends likewiſe her fatal Spell to her own Father and Siſter, for ſhe would not admit a ſharer with her.</p>
+            <p>Oh horred Cruelty! Oh Damnable Woman! worſe than a Cannibal, who though he deſtroy his kind, preſerves his kindred. Could'ſt thou think, becauſe thy Poyſons left no ſymptomes for mans eye to diſcover them, that the eye of Heaven ſaw not thy Execrable Villany? and that it would for ever let thee run on in proſperous Murther? No certainly, the times draws nigh, when thy whole Practice ſhall come to light, and thou ſhalt reap nothing of all thy hopes, but ſhame and horrour here, and, with<g ref="char:EOLhyphen"/>out Gods infinite Mercy, Eternal Damnation hereafter.</p>
+            <p>Whil'ſt this Young Lady and her damn'd Apothecary were tryumphing in the height of all their Villany, he happened (as he had finiſhed compounding a freſh ſtock of Potions for this wretched Lady, and was putting the Vialls into a little Cabi<g ref="char:EOLhyphen"/>net wherein he uſed to ſend them to her) to let fall one of the Vialls of the ſtrongeſt preparation, which breaking, the ſumes ſtruck ſo ſtrongly up into his Brain, that not being before pre<g ref="char:EOLhyphen"/>pared of an Antidote, he found all he could apply would now prove in vain, and that he muſt preſently die; but before he ex<g ref="char:EOLhyphen"/>pires, ſuch is his kindneſs to his Co-partner in Wickedneſs and Murther, that he haſtens all he can to make up the Cabinet,
+<pb n="7" facs="tcp:107699:4"/>and having faſt locked and ſealed it, Directs it to the Lady; and calling in all haſte for his man, bids him run ſpeedily and deliver it to none but the Lady's own hands.</p>
+            <p>The young Man runs, but as God had in his Providence or<g ref="char:EOLhyphen"/>dered it, finds not the Lady at home, ſo returns immediately with it; but for all his haſte, ſuch was the ſtrength of the Poy<g ref="char:EOLhyphen"/>ſons Operation, that at his return he finds his Miſtriſs bewailing over her dead Husband, who ſpying the Cabinet under her mans Arm, demands it of him, and ſeeing it directed to the La<g ref="char:EOLhyphen"/>dy, having before had ſome jealouſie of the ſecret Commerce between her Husband and that Lady, locks it ſafely up.</p>
+            <p>Soon after the City Provoſt coming to take an Inventory of the goods of the deceaſed, according to Cuſtome, there finds the Cabinet, and ſeeing it directed to the Lady, would out of reſpect have immediatly ſent it her; but ſuch was the importu<g ref="char:EOLhyphen"/>nity of the Apothecarie's Widdow, and ſhe gave ſuch reaſons for her importunity, that he was at length prevailed with to o<g ref="char:EOLhyphen"/>pen it firſt; but upon opening it, he was amazed to find on the top a contract under the Ladies hand, to pay the Apothecary 12000 Crowns when ſhe ſhould get poſſeſſion of her Fathers Eſtate, with ſeveral little Billets intimating her intruſting her Lacquay to be her Executioner, and in the bottom of the Cabi<g ref="char:EOLhyphen"/>net was a Caſe of ſmall Vialls, one having written on it, <hi>A ſtrong Extract of Poyſon for preſent diſpatch;</hi> the others, <hi>Poyſon for a Week, for a Month, for a Year, &amp;c.</hi>
+            </p>
+            <p>Upon ſight of this he immediately ſends to the Lieut. Cri<g ref="char:EOLhyphen"/>minal &amp; ſhews it him, who forthwith ſpeeds away to apprehend the Lady; but whether ſhe had Intelligence from Satan, or by ſome other means, ſhe had already withdrawn her ſelf, and cannot ſince be heard of; but he lights on the Lacquay, who being brought before the Judges Criminal, and confronted with the Cabinet and Letters (and a little terrified with the Rack) confeſſes, he had bin her wicked Emiſſary to carry death to near 50 perſons; whereupon he is condemned to be broken alive upon
+<pb n="8" facs="tcp:107699:5"/>the Wheel, which was accordingly executed, and the Apo<g ref="char:EOLhyphen"/>thecary's Body was burnt to aſhes, and thrown into the Air.</p>
+            <p>Monſr. <hi>Du Puys</hi> died about the ſame time with the Apo<g ref="char:EOLhyphen"/>thecary, having languiſhed long before, and his other Daugh<g ref="char:EOLhyphen"/>ter though not yet dead, is blind with the force of the Poyſon. The Cavalier her Husband is thought likewiſe to have had a Caſt of her Office, being ever ſince in a doleful languiſhing condition: What is become of this infernal Monſter, cannot yet be told, though diligent ſearch hath been made for her. Some ſay, her Relations have ſhut her up in ſome Monaſtery, to pre<g ref="char:EOLhyphen"/>vent the ſhame which would by her Execution fall upon two Noble Families.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
